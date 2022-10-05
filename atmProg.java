@@ -60,7 +60,11 @@ public class atmProg
         System.out.println("");  
         break;  
    
-                //missing  
+        case 3:  
+        //displaying the total balance of the user  
+        System.out.println("Balance : "+balance);  
+        System.out.println("");  
+        break;
    
                 case 4:  
         //exit from the menu  
